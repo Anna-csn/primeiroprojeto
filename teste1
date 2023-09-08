@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8" />
+
+    <title>Document Title</title>
+</head>
+
+<body>
+    <!-- Conteúdo -->
+
+    
+    <h1><b>Title</b></h1>
+
+    <h2><s>Title 2</s></h2>
+
+    <h3><u>Title 3</u></h3>
+
+    <h4><i>Title 4</i></h4>
+
+    <h5>Title 5</h5>
+
+    <h6>Title 6</h6>
+
+    <p>Text</p>
+
+    <article></article>
+    <header></header>
+
+    <div>
+
+        <p>Item de noticias do dia</p>
+
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit.
+        Consequatur ex recusandae, placeat doloremque est nobis, earum animi quam neque autem aperiam voluptate dolor possimus culpa saepe harum aliquam quae!</p>
+
+    </div>
+
+    <div style="background-color: aquamarine;">
+    
+        <h1>
+            Destaques da semana
+        </h1>
+
+        <p>texto................</p>  
+
+        <div>
+            
+        </div>
+   </div>
+
+   
+
+    <!-- abertura de container-->
+    <!-- div é container em Blocos-->
+
+        <div>
+            div content
+
+            <p>
+                text
+            </p>
+        </div>
+</body>
+
+</html>
